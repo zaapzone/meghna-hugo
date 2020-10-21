@@ -13,10 +13,10 @@ languageCode = "en-us"
 languageName = "En"
 weight = 1
 [Languages.fr]
-contentDir = "content/french"
+contentDir = "content/hindi"
 copyright = "Copyright &copy; 2020 Designed by [AniSecrets](www.anisecrets.com)"
 home = "Accueil"
-languageCode = "fr-fr"
+languageCode = "hi-hi"
 languageName = "हिन्दी"
 weight = 2
 [[menu.main]]
