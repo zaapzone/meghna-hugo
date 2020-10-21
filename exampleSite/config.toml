@@ -10,7 +10,7 @@ contentDir = "content/english"
 copyright = "Copyright &copy; 2020 Designed by [AniSecrets](www.anisecrets.com)"
 home = "Home"
 languageCode = "en-us"
-languageName = "En"
+languageName = "Eng"
 weight = 1
 [Languages.hi]
 contentDir = "content/hindi"
@@ -18,13 +18,6 @@ copyright = "Copyright &copy; 2020 Designed by [AniSecrets](www.anisecrets.com)"
 home = "होम"
 languageCode = "hi-hi"
 languageName = "हिन्दी"
-weight = 2
-[Languages.fr]
-contentDir = "content/french"
-copyright = "Copyright &copy; 2020 Designed by [AniSecrets](www.anisecrets.com)"
-home = "Accueil"
-languageCode = "fr-fr"
-languageName = "Fr"
 weight = 2
 [[menu.main]]
 name = "about"

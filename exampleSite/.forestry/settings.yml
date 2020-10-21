@@ -15,8 +15,8 @@ sections:
   templates:
   - post
 - type: directory
-  path: exampleSite/content/french/blog
-  label: Post (fr)
+  path: exampleSite/content/hindi/blog
+  label: Post (hi)
   create: documents
   match: "**/*"
   templates:
@@ -31,8 +31,8 @@ sections:
   templates:
   - author
 - type: directory
-  path: exampleSite/content/french/author
-  label: Author (fr)
+  path: exampleSite/content/hindi/author
+  label: Author (hi)
   create: documents
   match: "**/*"
   templates:
@@ -59,8 +59,8 @@ sections:
   new_doc_ext: toml
 upload_dir: exampleSite/static/images
 public_path: "/images"
-front_matter_path: ''
-use_front_matter_path: false
+hiont_matter_path: ''
+use_hiont_matter_path: false
 file_template: ":filename:"
 build:
   preview_env:
