@@ -1,7 +1,7 @@
 ---
 about:
   enable: true
-  title: About Us
+  title: हमारे बारे में
   about_item:
   - icon: ti-ruler-pencil
     title: हम क्रिएटिव हैं
@@ -9,10 +9,13 @@ about:
       हैंहम क्रिएटिव हैंहम क्रिएटिव हैंहम क्रिएटिव हैंहम क्रिएटिव हैंहम क्रिएटिव हैंहम
       क्रिएटिव हैंहम क्रिएटिव हैंहम क्रिएटिव हैं
   - icon: ti-cup
-    title: We're Professional
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil,
-      libero, perspiciatis eos provident laborum eum dignissimos.
+    title: हम पेशेवर हैं
+    content: "हम पेशेवर हैं हम पेशेवर हैं हम पेशेवर हैंहम पेशेवर हैं\n हम पेशेवर हैंहम
+      पेशेवर हैं हम पेशेवर हैं हम पेशेवर हैंहम पेशेवर हैं\n हम पेशेवर हैंहम पेशेवर
+      हैं हम पेशेवर हैं हम पेशेवर हैंहम पेशेवर हैं\n "
   - icon: ti-thought
-    title: We're Genius
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil,
-      libero, perspiciatis eos provident laborum eum dignissimos.
+    title: हम प्रतिभाशाली हैं
+    content: हम प्रतिभाशाली हैंहम प्रतिभाशाली हैंहम प्रतिभाशाली हैंहम प्रतिभाशाली
+      हैंहम प्रतिभाशाली हैंहम प्रतिभाशाली हैंहम प्रतिभाशाली हैंहम प्रतिभाशाली हैंहम
+      प्रतिभाशाली हैंहम प्रतिभाशाली हैंहम प्रतिभाशाली हैंहम प्रतिभाशाली हैंहम प्रतिभाशाली
+      हैंहम प्रतिभाशाली हैंहम प्रतिभाशाली हैं
