@@ -1,4 +1,6 @@
 ---
+- id: ''
+  translation: ''
 - id: blogTitle
   translation: ब्लाग शीर्षक
 - id: readMore
@@ -10,22 +12,20 @@
 - id: aboutAuthor
   translation: विशेषज्ञ के बारे में
 - id: authorsPosts
-  translation: Articles de l'auteur
+  translation: विशेषज्ञ का लेख
 - id: all
-  translation: All
+  translation: सभी
 - id: about
   translation: बारे में
 - id: services
-  translation: Services
+  translation: सेवाएं
 - id: portfolio
-  translation: Portfolio
+  translation: पोर्टफोलियो
 - id: team
-  translation: Équipe
+  translation: टीम
 - id: pricing
-  translation: Tarification
+  translation: मूल्य निर्धारण
 - id: blog
-  translation: Blog
+  translation: ब्लॉग
 - id: contact
-  translation: Contact
-- id: themefisher
-  translation: Themefisher
+  translation: संपर्क करें
