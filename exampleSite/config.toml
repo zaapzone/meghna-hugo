@@ -7,17 +7,24 @@ theme = "meghna-hugo"
 title = "LetsWalk"
 [Languages.en]
 contentDir = "content/english"
-copyright = "Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)"
+copyright = "Copyright &copy; 2020 Designed by [AniSecrets](www.anisecrets.com)"
 home = "Home"
 languageCode = "en-us"
 languageName = "En"
 weight = 1
-[Languages.fr]
+[Languages.hi]
 contentDir = "content/hindi"
 copyright = "Copyright &copy; 2020 Designed by [AniSecrets](www.anisecrets.com)"
-home = "home"
-languageCode = "fr-fr"
+home = "होम"
+languageCode = "hi-hi"
 languageName = "हिन्दी"
+weight = 2
+[Languages.fr]
+contentDir = "content/french"
+copyright = "Copyright &copy; 2020 Designed by [AniSecrets](www.anisecrets.com)"
+home = "Accueil"
+languageCode = "fr-fr"
+languageName = "Fr"
 weight = 2
 [[menu.main]]
 name = "about"
