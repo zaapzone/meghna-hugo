@@ -1,4 +1,4 @@
-baseURL = "https://testmegna.netlify.app/"
+baseURL = "http://letswalk.anisecrets.com/"
 disableLanguages = []
 disqusShortname = ""
 paginate = "6"
@@ -20,40 +20,45 @@ languageCode = "hi-hi"
 languageName = "हिन्दी"
 weight = 2
 [[menu.main]]
-name = "contact"
+name = "about"
 pre = "#"
-url = "contact"
-weight = 7
-[[menu.main]]
-name = "blog"
-pre = "#"
-url = "blog"
-weight = 6
-[[menu.main]]
-name = "pricing"
-pre = "#"
-url = "pricing"
-weight = 5
-[[menu.main]]
-name = "team"
-pre = "#"
-url = "team"
-weight = 4
-[[menu.main]]
-name = "portfolio"
-pre = "#"
-url = "portfolio"
-weight = 3
+url = "about"
+weight = 1
 [[menu.main]]
 name = "services"
 pre = "#"
 url = "services"
 weight = 2
 [[menu.main]]
-name = "about"
+name = "portfolio"
 pre = "#"
-url = "about"
-weight = 1
+url = "portfolio"
+weight = 3
+[[menu.main]]
+name = "team"
+pre = "#"
+url = "team"
+weight = 4
+[[menu.main]]
+name = "pricing"
+pre = "#"
+url = "pricing"
+weight = 5
+[[menu.main]]
+name = "blog"
+pre = "#"
+url = "blog"
+weight = 6
+[[menu.main]]
+name = "contact"
+pre = "#"
+url = "contact"
+weight = 7
+[[menu.main]]
+name = "themefisher"
+pre = ""
+url = "https://themefisher.com/"
+weight = 8
 [params]
 author = "Themefisher"
 description = "Responsive Multipurpose Parallax Hugo Template"
