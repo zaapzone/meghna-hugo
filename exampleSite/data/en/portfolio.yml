@@ -4,10 +4,12 @@ portfolio:
   title: Our Works1212
   portfolio_item:
   - name: test2
-    image: https://www.youtube.com/watch?v=wtxsDxKY5Ok
-    image_webp: https://www.youtube.com/watch?v=wtxsDxKY5Ok
-    categories: ''
-    content: images/portfolio/portfolio-1.jpg
+    image: images/portfolio/portfolio-1.jpg
+    image_webp: images/portfolio/portfolio-1.webp
+    categories:
+    - design
+    - photography
+    content: loraem isusm doleor dsit mahd
     link: https://www.youtube.com/watch?v=wtxsDxKY5Ok
   - name: Tag Design
     image: images/portfolio/portfolio-2.jpg
