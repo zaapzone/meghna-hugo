@@ -11,8 +11,12 @@ portfolio:
     content: images/portfolio/portfolio-1.jpg
     link: https://www.youtube.com/watch?v=wtxsDxKY5Ok
   - name: Sound system
-    image: images/portfolio/portfolio-2.jpg
-    image_webp: images/portfolio/portfolio-2.webp
+    image: <iframe width="560" height="315" src="https://www.youtube.com/embed/wtxsDxKY5Ok"
+      frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media;
+      gyroscope; picture-in-picture" allowfullscreen></iframe>
+    image_webp: <iframe width="560" height="315" src="https://www.youtube.com/embed/wtxsDxKY5Ok"
+      frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media;
+      gyroscope; picture-in-picture" allowfullscreen></iframe>
     categories:
     - development
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
