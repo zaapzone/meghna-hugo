@@ -4,8 +4,8 @@ portfolio:
   title: Our Works
   portfolio_item:
   - name: Tag Design
-    image: https://www.youtube.com/watch?v=wtxsDxKY5Ok
-    image_webp: images/portfolio/portfolio-1.webp
+    image: images/portfolio/portfolio-1.jpg
+    image_webp: https://www.youtube.com/watch?v=wtxsDxKY5Ok
     categories:
     - design
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
