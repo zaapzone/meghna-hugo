@@ -4,11 +4,11 @@ portfolio:
   title: Our Works
   portfolio_item:
   - name: Tag Design
-    image: images/portfolio/portfolio-1.jpg
+    image: https://www.youtube.com/watch?v=wtxsDxKY5Ok
     image_webp: https://www.youtube.com/watch?v=wtxsDxKY5Ok
     categories:
     - design
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
+    content: images/portfolio/portfolio-1.jpg
     link: https://themefisher.com
   - name: Sound system
     image: images/portfolio/portfolio-2.jpg
