@@ -36,19 +36,20 @@
 			{{"<!-- Contact Form -->" | safeHTML}}
 			{{ if .contact_form.enable }}
 			{{ with .contact_form }}
+			
 			<div class="col-lg-6 wow fadeInUp" data-wow-duration="500ms" data-wow-delay="300ms">
-				<form id="contact-form" class="form-meghna" method="post" action="{{ .form_action }}" role="form" netlify>
+				<form id="contact-form" class="form-meghna" method="post" action="{{ .form_action }}" role="form">
 					<div class="form-group">
-						<input type="text" placeholder="{{ .name }}" class="form-control" name="name" id="name">
+						<input type="text" placeholder="{{ .name }}" class="form-control" name="entry.2005620554" id="2005620554">
 					</div>
 					<div class="form-group">
-						<input type="email" placeholder="{{ .email }}" class="form-control" name="email" id="email">
+						<input type="email" placeholder="{{ .email }}" class="form-control" name="entry.1045781291" id="1045781291">
 					</div>
 					<div class="form-group">
-						<input type="text" placeholder="{{ .subject }}" class="form-control" name="subject" id="subject">
+						<input type="text" placeholder="{{ .phone }}" class="form-control" name="entry.1166974658" id="1166974658">
 					</div>
 					<div class="form-group">
-						<textarea rows="6" placeholder="{{ .message }}" class="form-control" name="message" id="message"></textarea>
+						<textarea rows="6" placeholder="{{ .message }}" class="form-control" name="entry.89500854" id="89500854"></textarea>
 					</div>
 					<div id="cf-submit">
 						<button type="submit" id="contact-submit" class="btn btn-transparent btn-block"
